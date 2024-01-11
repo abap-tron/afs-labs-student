@@ -1,5 +1,6 @@
 --
 --Test comment
+--TESTING
 -- PostgreSQL database dump
 --
 
